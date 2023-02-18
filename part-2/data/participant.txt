@@ -1,0 +1,5 @@
+Ivan 25 male
+Olesya 25 female
+Petro 22 male
+Irina 23 female
+Masha 30 female
