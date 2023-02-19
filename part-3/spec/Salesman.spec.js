@@ -1,6 +1,6 @@
 const Salesman = require('../Salesman');
 
-describe('Класс Продавец', () => {
+describe('class Salesman', () => {
   it('allows you to set the name', () => {
     const firstName = 'Petro';
     const salesman = new Salesman(firstName);
